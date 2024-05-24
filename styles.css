@@ -83,6 +83,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 8rem 0;
     width: 59rem;
     max-width: 90%;
+    backdrop-filter: blur(10px);
 }
 
 .app__card-list {
